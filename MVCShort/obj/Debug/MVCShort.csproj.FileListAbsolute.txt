@@ -1,0 +1,307 @@
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ApplicationInsights.config
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\csc.exe
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\System.Collections.Immutable.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\System.Reflection.Metadata.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\vbc.exe
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe
+D:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe.config
+D:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.dll.config
+D:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.pdb
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Antlr3.Runtime.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.SqlServer.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Web.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Web.Infrastructure.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Newtonsoft.Json.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Owin.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Helpers.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Mvc.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Optimization.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Razor.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\WebGrease.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Web.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Helpers.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Mvc.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Optimization.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Razor.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Antlr3.Runtime.pdb
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Newtonsoft.Json.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.SqlServer.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Helpers.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Mvc.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Optimization.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Razor.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\EntityFramework.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\EntityFramework.SqlServer.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+D:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.csprojResolveAssemblyReference.cache
+D:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.dll
+D:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.pdb
+E:\раб стол\MVCShort\MVCShort\bin\ApplicationInsights.config
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\csc.exe
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\System.Collections.Immutable.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\System.Reflection.Metadata.dll
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\vbc.exe
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe
+E:\раб стол\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe.config
+E:\раб стол\MVCShort\MVCShort\bin\MVCShort.dll.config
+E:\раб стол\MVCShort\MVCShort\bin\MVCShort.dll
+E:\раб стол\MVCShort\MVCShort\bin\MVCShort.pdb
+E:\раб стол\MVCShort\MVCShort\bin\Antlr3.Runtime.dll
+E:\раб стол\MVCShort\MVCShort\bin\EntityFramework.dll
+E:\раб стол\MVCShort\MVCShort\bin\EntityFramework.SqlServer.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.Agent.Intercept.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.Web.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Web.Infrastructure.dll
+E:\раб стол\MVCShort\MVCShort\bin\Newtonsoft.Json.dll
+E:\раб стол\MVCShort\MVCShort\bin\Owin.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Helpers.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Mvc.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Optimization.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Razor.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.dll
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.dll
+E:\раб стол\MVCShort\MVCShort\bin\WebGrease.dll
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.Web.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Helpers.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Mvc.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Optimization.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.Razor.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.xml
+E:\раб стол\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.xml
+E:\раб стол\MVCShort\MVCShort\bin\Antlr3.Runtime.pdb
+E:\раб стол\MVCShort\MVCShort\bin\Newtonsoft.Json.xml
+E:\раб стол\MVCShort\MVCShort\bin\EntityFramework.xml
+E:\раб стол\MVCShort\MVCShort\bin\EntityFramework.SqlServer.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.xml
+E:\раб стол\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.Helpers.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.Mvc.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.Optimization.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.Razor.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.WebPages.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\EntityFramework.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\раб стол\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\раб стол\MVCShort\MVCShort\obj\Debug\MVCShort.csprojAssemblyReference.cache
+E:\раб стол\MVCShort\MVCShort\obj\Debug\MVCShort.csproj.CoreCompileInputs.cache
+E:\раб стол\MVCShort\MVCShort\obj\Debug\MVCShort.csproj.CopyComplete
+E:\раб стол\MVCShort\MVCShort\obj\Debug\MVCShort.dll
+E:\раб стол\MVCShort\MVCShort\obj\Debug\MVCShort.pdb
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ApplicationInsights.config
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\csc.exe
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\System.Collections.Immutable.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\System.Reflection.Metadata.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\vbc.exe
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe
+E:\Разное\VS2012\MVCShort\MVCShort\bin\roslyn\VBCSCompiler.exe.config
+E:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.dll.config
+E:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\MVCShort.pdb
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Antlr3.Runtime.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.SqlServer.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Web.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Web.Infrastructure.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Newtonsoft.Json.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Owin.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Helpers.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Mvc.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Optimization.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Razor.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\WebGrease.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.DependencyCollector.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.Web.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AI.WindowsServer.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.ApplicationInsights.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Helpers.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Mvc.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Optimization.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.Razor.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Deployment.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\System.Web.WebPages.Razor.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Antlr3.Runtime.pdb
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Newtonsoft.Json.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\EntityFramework.SqlServer.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Google.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Helpers.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Mvc.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Optimization.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.Razor.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\EntityFramework.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\EntityFramework.SqlServer.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Core.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.Owin.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Host.SystemWeb.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Facebook.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Google.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.Twitter.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\bin\ru\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+E:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.csprojAssemblyReference.cache
+E:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.csproj.CoreCompileInputs.cache
+E:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.csproj.CopyComplete
+E:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.dll
+E:\Разное\VS2012\MVCShort\MVCShort\obj\Debug\MVCShort.pdb

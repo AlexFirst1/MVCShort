@@ -1,0 +1,31 @@
+﻿@model System.Data.DataTable
+@{
+    ViewBag.Title = "Index";
+}
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>Длинный URL </th>
+        <th>Короткий URL </th>
+        <th>Дата создания </th>
+        <th>Количество переходов</th>
+        <th></th>
+    </tr>
+    @for (int i = 0; i < Model.Rows.Count; i++)
+    {
+        <tr>
+            <td>@Model.Rows[i][1]</td>
+            <td>@Model.Rows[i][2]</td>
+            <td>@Model.Rows[i][3]</td>
+            <td>@Model.Rows[i][4]</td>
+            <td>
+                <a href="@Url.Action("Edit","Url",new { @id = @Model.Rows[i][0]})">Изменить</a>
+                <a href="@Url.Action("Delete","Url",new { @id = @Model.Rows[i][0]})">Удалить</a>
+            </td>
+        </tr>
+    }
+</table>
+<h2><b><span id="result" style="color:crimson;padding-left: 0.7cm"></span></b></h2>
+<a href="@Url.Action("Create","URL")">Добавить новую запись</a>
+
+
